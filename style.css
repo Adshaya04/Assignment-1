@@ -66,7 +66,7 @@ body {
     border-radius: 0; 
 }
 
-.step-number_first_child {
+.first-child {
     background-color: #45a049;
     color: white;
 }
