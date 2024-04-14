@@ -43,7 +43,7 @@ body {
     position: absolute;
     top: 30%; 
     left: 20px; 
-    right: 80px; 
+    right: 100px; 
     height: 2px; 
     background-color: white; 
     z-index: -1; 
